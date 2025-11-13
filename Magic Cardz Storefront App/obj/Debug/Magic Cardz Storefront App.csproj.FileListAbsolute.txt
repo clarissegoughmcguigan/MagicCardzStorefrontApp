@@ -1,0 +1,36 @@
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\bin\Debug\Magic Cardz Storefront App.exe.config
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\bin\Debug\Magic Cardz Storefront App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\bin\Debug\Magic Cardz Storefront App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.csproj.AssemblyReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.account.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.checkout.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.homepage.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.login.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.Properties.Resources.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.signup.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.csproj.GenerateResource.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.csproj.CoreCompileInputs.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.pdb
+C:\Users\callu\Downloads\Magic Cardz Storefront App\bin\Debug\Magic Cardz Storefront App.exe.config
+C:\Users\callu\Downloads\Magic Cardz Storefront App\bin\Debug\Magic Cardz Storefront App.exe
+C:\Users\callu\Downloads\Magic Cardz Storefront App\bin\Debug\Magic Cardz Storefront App.pdb
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.csproj.AssemblyReference.cache
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.account.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.checkout.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.homepage.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.login.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.Properties.Resources.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.signup.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.csproj.GenerateResource.cache
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.csproj.CoreCompileInputs.cache
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.exe
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic Cardz Storefront App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage1.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage2.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage3.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 4 - FMP\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage4.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage1.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage2.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage3.resources
+C:\Users\callu\Downloads\Magic Cardz Storefront App\obj\Debug\Magic_Cardz_Storefront_App.productspage4.resources
