@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/PF9YxWBqoG0)
 
 <h2>Description</h2>
-For this project I was tasked bt college to make a app for a fictional company of my choice and I decide to make a tcg shop app. This time the infomation of the user gets saved into a excel spreadsheet.
+For this project I was tasked bt college to make a app for a fictional company of my choice and I decide to make a tcg shop app. This time the infomation of the user gets saved into a excel spreadsheet. I designed the app in Figma and the logo in Adobe Illustrator and then used Trello to keep track of the software development life cycle of the app.
 <br />
 
 
@@ -11,6 +11,9 @@ For this project I was tasked bt college to make a app for a fictional company o
 
 - <b>Visual Studio</b> 
 - <b>C#</b>
+- <b>Figma</b>
+- <b>Adobe Illustrator</b>
+- <b>Trello</b>
 
 <h2>Program walk-through:</h2>
 
