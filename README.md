@@ -15,6 +15,14 @@ For this project I was tasked bt college to make a app for a fictional company o
 - <b>Adobe Illustrator</b>
 - <b>Trello</b>
 
+<h2>Figma Mood Board & Design</h2>
+
+- <b>[Mood Board](https://www.figma.com/board/amsWBxd9lC3CUtjXGzl5Dx/Ideation-board?t=rcKRU4WmclfUrVUO-0)</b>
+
+- <b>[Sketches](https://www.figma.com/design/2UErEnXGgKIqileCnp4yi2/App-sketches?node-id=0-1&p=f&t=1S6YvYot8OxMFkMH-0)</b>
+
+- <b>[Prototype](https://www.figma.com/design/usFG0sK948lEaEWnQlNJAX/Prototype?node-id=0-1&p=f&t=nk0G8WaomvcHoosp-0)</b>
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
